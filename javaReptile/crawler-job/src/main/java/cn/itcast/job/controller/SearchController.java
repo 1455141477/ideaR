@@ -14,6 +14,7 @@ public class SearchController {
     @RequestMapping("search")
     public JobResult Search(String salary, String jobaddr, String keyword, Integer page) {
         JobResult jobResult = jobRepositoryService.search(salary, jobaddr, keyword, page);
+        System.out.println("测试一下");
         return jobResult;
     }
 }
