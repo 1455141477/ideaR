@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crawer-book/crawer-book.iml" filepath="$PROJECT_DIR$/crawer-book/crawer-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-es/crawler-es.iml" filepath="$PROJECT_DIR$/crawler-es/crawler-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-job/crawler-job.iml" filepath="$PROJECT_DIR$/crawler-job/crawler-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-jd/itcast-jd.iml" filepath="$PROJECT_DIR$/itcast-jd/itcast-jd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javareptile1/javareptile1.iml" filepath="$PROJECT_DIR$/javareptile1/javareptile1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webMagic/webMagic.iml" filepath="$PROJECT_DIR$/webMagic/webMagic.iml" />
+    </modules>
+  </component>
+</project>
