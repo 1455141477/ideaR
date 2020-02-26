@@ -1,0 +1,19 @@
+#jdbc
+#spring:
+#  datasource:
+#      driver-class-name: com.mysql.jdbc.Driver
+#      url: jdbc:mysql://127.0.0.1:3306/leyou
+#      username: root
+#      password: 123
+#  mvc:
+#    view:
+#      prefix: "WEB-INF/jsp"
+#      suffix: ".jsp"
+##日志
+logging:
+  level:
+    cn.itcast: debug
+#扫描别名包
+#mybatis:
+# mapper-locations: mapper/*.xml
+#  type-aliases-package:
